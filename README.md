@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Evgeniy
-- 👀 I’m interested in sport.
-- 🌱 I’m currently learning ruby, ruby on reils.
-- 💞️ I’m looking to collaborate on all life.
 - 📫 How to reach me postoyalkoevgeniy@gmail.com
 
 <!---
